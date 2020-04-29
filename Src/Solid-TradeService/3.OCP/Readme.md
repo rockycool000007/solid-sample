@@ -5,5 +5,5 @@
 
 ## Use simple Inheritance with virtual members in this sample
 
-- Make public methods virtual
-- Add some Factory Methods using virtual properties
+- Make public methods virtual                         => in DealService.cs class
+- Add some Factory Methods using virtual properties   => 
