@@ -10,4 +10,4 @@ So, if you add a TestCaching class and want to change behaviour of a method, you
 
 
 # 2. Add some Factory Methods using virtual properties
-
+In the DealService class, add factory methods using virtual properties
